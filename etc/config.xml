@@ -11,7 +11,7 @@
 					<shipping>
 						<carriers>
 							<kangu>
-								<class>Kangu\Shipping\Model\Carrier\Kangu</class>
+								<class>Kangu\Shipping\model\Carrier\Kangu</class>
 							</kangu>
 						</carriers>
 					</shipping>
@@ -39,7 +39,7 @@
 					<defaultheight>20</defaultheight>
 					<defaultlength>20</defaultlength>
 					<defaultweight>0.5</defaultweight>
-					<model>Kangu\Shipping\Model\Carrier\Kangu</model>
+					<model>Kangu\Shipping\model\Carrier\Kangu</model>
 					<title>Kangu Shipping</title>
 				</kangu>
 			</carriers>
