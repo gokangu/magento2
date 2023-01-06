@@ -3,8 +3,6 @@
   "description": "Kangu Shipping Method for Magento 2.x",
   "type": "magento2-module",
   "version": "1.0.3",
-   "prefer-stable": true,
-   "minimum-stability":"stable",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
